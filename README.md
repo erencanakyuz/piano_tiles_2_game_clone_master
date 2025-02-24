@@ -1,6 +1,6 @@
 # piano
 
-A new Flutter project.
+A Piano tiles game Flutter project.
 
 ## Getting Started
 
