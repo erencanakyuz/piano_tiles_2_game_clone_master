@@ -1,0 +1,27 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+android/.gradle/
+android/app/*.jks
+android/key.properties
+android/app/google-services.json
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Runner/Runner.xcodeproj/project.xcworkspace/
+linux/flutter/ephemeral/
+macos/flutter/ephemeral/
+web/.dart_tool/
+web/main.dart.js
+windows/flutter/ephemeral/
+*.iml
+*.lock
+*.log
+*.DS_Store
+*.swp
+*.swo
+*.swn
