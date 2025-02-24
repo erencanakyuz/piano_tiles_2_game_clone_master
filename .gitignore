@@ -3,24 +3,43 @@
 .packages
 .pub-cache/
 build/
+lib/generated_plugin_registrant.dart
+
+# Android
 android/.gradle/
-android/app/*.jks
-android/key.properties
 android/app/google-services.json
+android/key.properties
+android/app/*.jks
+
+# iOS
 ios/Pods/
 ios/.symlinks/
 ios/Flutter/Generated.xcconfig
 ios/Flutter/App.framework
 ios/Flutter/Flutter.framework
 ios/Runner/Runner.xcodeproj/project.xcworkspace/
-linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# macOS & Linux
 macos/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Web
 web/.dart_tool/
 web/main.dart.js
-windows/flutter/ephemeral/
+
+# IDE / Editor
+.idea/
+.vscode/
 *.iml
-*.lock
+
+# Logs & Locks
 *.log
+*.lock
+
+# Misc
 *.DS_Store
 *.swp
 *.swo
